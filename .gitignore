@@ -1,0 +1,7 @@
+cmake-build-debug
+raytracer
+plugins
+build
+.idea
+screens/
+.DS_Store

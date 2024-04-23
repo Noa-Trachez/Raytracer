@@ -1,0 +1,1 @@
+rm -rf build raytracer plugins cmake-build-debug
